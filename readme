@@ -1,0 +1,17 @@
+My First Shopping Website
+
+Basic Funcationalities:
+	- Customer Registration
+	- Customer Authentication (login and logout)
+	- Product View
+	- Shopping Cart View
+	- Order Placement
+
+Technologies:
+	- Spring Framework: Dependency Injection, Aspect
+	- JDBC, MySQL
+	- Servlet, JSP, HTML, CSS
+	- Maven POM
+	- jUnit
+	- MVC design pattern
+
